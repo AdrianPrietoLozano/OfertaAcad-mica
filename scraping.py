@@ -2,6 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
+
 url = "http://consulta.siiau.udg.mx/wco/sspseca.consulta_oferta?ciclop=201910&cup=D&majrp=INCO&crsep=&materiap=&horaip=&horafp=&edifp=&aulap=&ordenp=0&mostrarp=1000"
 
 r = requests.get(url)
@@ -32,10 +33,32 @@ for fila in filas:
 		num_profesor = -1
 		profesor = "N/A"
 
+	datos_horario = fila.find_all("td", {"width": re.compile("")})
+
+	if len(datos_horario) > 0:
+		ses = datos_horario[0].text
+		hora = datos_horario[1].text
+		dias = datos_horario[2].text
+		edificio = datos_horario[3].text
+		aula = datos_horario[4].text
+		periodo = datos_horario[5].text
+	else:
+		ses = hora = dias = edificio = aula = periodo = "N/A"
+
+	
+
+	"""
+	print(datos_horario[0].text, datos_horario[1].text, datos_horario[2].text, \
+		datos_horario[3].text,\
+		datos_horario[4].text,\
+		datos_horario[5].text\
+		)
+	"""
 
 	#print(datos_profesor)
 
-	print(nrc, clave, materia, seccion, creditos, cupos, disponibles, num_profesor, profesor)
+	print(nrc, clave, materia, seccion, creditos, cupos, disponibles, num_profesor, profesor, \
+		ses, hora, dias, edificio, aula, periodo)
 
 
 print(len(filas))
