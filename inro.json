@@ -7,14 +7,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "17",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "AYALA HERNANDEZ, LUIS ERNESTO",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A002",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A002",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "138655",
@@ -24,14 +28,18 @@
         "creditos": "8",
         "cupos": "41",
         "disponibles": "-1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SENCION ECHAURI, FELIPE",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A012",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A012",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "103850",
@@ -41,14 +49,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "8",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "ALDANA LOPEZ, CARLOS IVAN",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A016",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A016",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "124876",
@@ -58,14 +70,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "9",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CRUZ ZAVALA, EMMANUEL",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". . I . V .",
-        "edificio": "DEDX",
-        "aula": "A002",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". . I . V .",
+                "edificio": "DEDX",
+                "aula": "A002",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "145987",
@@ -75,14 +91,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "14",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ CASAS, ANGEL TONATIUH",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A014",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A014",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153352",
@@ -92,14 +112,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "16",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "NU\u00d1O ORTEGA, EMMANUEL",
-        "ses": "01",
-        "hora": "1300-1455",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A016",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1300-1455",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A016",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "154481",
@@ -109,14 +133,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "13",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "AYALA HERNANDEZ, LUIS ERNESTO",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A011",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A011",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "143400",
@@ -126,14 +154,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A003",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A003",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "89126",
@@ -143,14 +175,18 @@
         "creditos": "8",
         "cupos": "35",
         "disponibles": "0",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "ELIZALDE CAMINO, FERNANDO",
-        "ses": "01",
-        "hora": "0900-1255",
-        "dias": ". . . . V .",
-        "edificio": "DEDU",
-        "aula": "A010",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1255",
+                "dias": ". . . . V .",
+                "edificio": "DEDU",
+                "aula": "A010",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "110191",
@@ -160,14 +196,9 @@
         "creditos": "16",
         "cupos": "0",
         "disponibles": "0",
-        "num_profesor": -1,
+        "ses_profesor": -1,
         "profesor": "N/A",
-        "ses": "N/A",
-        "hora": "N/A",
-        "dias": "N/A",
-        "edificio": "N/A",
-        "aula": "N/A",
-        "periodo": "N/A"
+        "horario": []
     },
     {
         "nrc": "110192",
@@ -177,14 +208,9 @@
         "creditos": "16",
         "cupos": "0",
         "disponibles": "0",
-        "num_profesor": -1,
+        "ses_profesor": -1,
         "profesor": "N/A",
-        "ses": "N/A",
-        "hora": "N/A",
-        "dias": "N/A",
-        "edificio": "N/A",
-        "aula": "N/A",
-        "periodo": "N/A"
+        "horario": []
     },
     {
         "nrc": "91267",
@@ -194,14 +220,18 @@
         "creditos": "8",
         "cupos": "40",
         "disponibles": "5",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "VAZQUEZ BEAZ, RICARDO",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": "L . I . . .",
-        "edificio": "DEDV",
-        "aula": "A013",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": "L . I . . .",
+                "edificio": "DEDV",
+                "aula": "A013",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "113989",
@@ -211,14 +241,18 @@
         "creditos": "8",
         "cupos": "40",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A021",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A021",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "144539",
@@ -228,14 +262,18 @@
         "creditos": "8",
         "cupos": "40",
         "disponibles": "31",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SANCHEZ ALVAREZ, MIGUEL",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DEDU",
-        "aula": "A022",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DEDU",
+                "aula": "A022",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "92338",
@@ -245,14 +283,18 @@
         "creditos": "8",
         "cupos": "35",
         "disponibles": "24",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DEDU",
-        "aula": "A013",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DEDU",
+                "aula": "A013",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120264",
@@ -262,14 +304,26 @@
         "creditos": "8",
         "cupos": "17",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": "L . . . . .",
-        "edificio": "DEDV",
-        "aula": "A002",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": "L . . . . .",
+                "edificio": "DEDV",
+                "aula": "A002",
+                "periodo": "16/01/19 - 31/05/19"
+            },
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". . I . . .",
+                "edificio": "DEDV",
+                "aula": "A004",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "138659",
@@ -279,14 +333,18 @@
         "creditos": "8",
         "cupos": "35",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERRERA PE\u00d1A, KARLA GABRIELA",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A022",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A022",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "111399",
@@ -296,14 +354,18 @@
         "creditos": "8",
         "cupos": "40",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A022",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A022",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "125307",
@@ -313,14 +375,18 @@
         "creditos": "8",
         "cupos": "35",
         "disponibles": "21",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "MEJIA MARIN, MARIA ESTHER",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". . I . V .",
-        "edificio": "DEDR",
-        "aula": "A002",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". . I . V .",
+                "edificio": "DEDR",
+                "aula": "A002",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "119916",
@@ -330,14 +396,18 @@
         "creditos": "8",
         "cupos": "6",
         "disponibles": "5",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SANCHEZ NAJERA, ABEL ISAI",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A010",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A010",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153363",
@@ -347,14 +417,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "7",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SANCHEZ ESTRADA, JAIRO CAIN",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A011",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A011",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "159303",
@@ -364,14 +438,18 @@
         "creditos": "8",
         "cupos": "20",
         "disponibles": "4",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
-        "ses": "01",
-        "hora": "1300-1455",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A014",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1300-1455",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A014",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "141265",
@@ -381,14 +459,26 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "11",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SANTOS ARCE, STEWART RENE",
-        "ses": "01",
-        "hora": "1300-1455",
-        "dias": ". . . . V .",
-        "edificio": "DEDT",
-        "aula": "A019",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1300-1455",
+                "dias": ". . . . V .",
+                "edificio": "DEDT",
+                "aula": "A019",
+                "periodo": "16/01/19 - 31/05/19"
+            },
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": "L . . . . .",
+                "edificio": "DEDT",
+                "aula": "A019",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "89516",
@@ -398,14 +488,18 @@
         "creditos": "8",
         "cupos": "40",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A015",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A015",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "113990",
@@ -415,14 +509,18 @@
         "creditos": "8",
         "cupos": "40",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A001",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A001",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "145989",
@@ -432,14 +530,18 @@
         "creditos": "8",
         "cupos": "15",
         "disponibles": "6",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": "L . I . . .",
-        "edificio": "DUCT1",
-        "aula": "LC10",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": "L . I . . .",
+                "edificio": "DUCT1",
+                "aula": "LC10",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120478",
@@ -449,14 +551,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "19",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "MU\u00d1OZ MENDOZA, LUIS FELIPE",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDR",
-        "aula": "A002",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDR",
+                "aula": "A002",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "114818",
@@ -466,14 +572,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "16",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "DURON GONZALEZ, MONICA JUDITH",
-        "ses": "01",
-        "hora": "0700-0855",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A011",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-0855",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A011",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120479",
@@ -483,14 +593,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "10",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": "L . I . . .",
-        "edificio": "DEDT",
-        "aula": "A011",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": "L . I . . .",
+                "edificio": "DEDT",
+                "aula": "A011",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153764",
@@ -500,14 +614,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "29",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ HERNANDEZ, HECTOR",
-        "ses": "01",
-        "hora": "0700-0855",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A019",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-0855",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A019",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "158797",
@@ -517,14 +635,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "12",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": ". . I . V .",
-        "edificio": "DEDT",
-        "aula": "A015",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". . I . V .",
+                "edificio": "DEDT",
+                "aula": "A015",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "154483",
@@ -534,14 +656,18 @@
         "creditos": "8",
         "cupos": "20",
         "disponibles": "9",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "VENTURA NU\u00d1EZ, MARIA PATRICIA",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": ". M . J . .",
-        "edificio": "DEDR",
-        "aula": "LC06",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": ". M . J . .",
+                "edificio": "DEDR",
+                "aula": "LC06",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "154486",
@@ -551,14 +677,26 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "8",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CAMPOS VILLARREAL, RODRIGO ANTONIO",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": "L . . . . .",
-        "edificio": "DEDT",
-        "aula": "A019",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": "L . . . . .",
+                "edificio": "DEDT",
+                "aula": "A019",
+                "periodo": "16/01/19 - 31/05/19"
+            },
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". . I . . .",
+                "edificio": "DEDT",
+                "aula": "A019",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "145992",
@@ -568,14 +706,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "15",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A003",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A003",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "103853",
@@ -585,14 +727,18 @@
         "creditos": "5",
         "cupos": "35",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A024",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A024",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "84602",
@@ -602,14 +748,18 @@
         "creditos": "5",
         "cupos": "24",
         "disponibles": "5",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DUCT1",
-        "aula": "LC07",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DUCT1",
+                "aula": "LC07",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "133339",
@@ -619,14 +769,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "11",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CHAVEZ MARTINEZ, EHECATL JOEL",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": "L . I . . .",
-        "edificio": "DEDT",
-        "aula": "A011",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": "L . I . . .",
+                "edificio": "DEDT",
+                "aula": "A011",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "143403",
@@ -636,14 +790,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "17",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDT",
-        "aula": "A020",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDT",
+                "aula": "A020",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120295",
@@ -653,14 +811,18 @@
         "creditos": "5",
         "cupos": "25",
         "disponibles": "8",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A020",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A020",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "124875",
@@ -670,14 +832,18 @@
         "creditos": "5",
         "cupos": "10",
         "disponibles": "5",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SANCHEZ NAJERA, ABEL ISAI",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A006",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A006",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "125306",
@@ -687,14 +853,18 @@
         "creditos": "5",
         "cupos": "40",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ MONTELONGO, ROSAURA",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A018",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A018",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "113992",
@@ -704,14 +874,18 @@
         "creditos": "5",
         "cupos": "24",
         "disponibles": "5",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "ORTEGA SANCHEZ, NOE",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A011",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A011",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "143394",
@@ -721,14 +895,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "-2",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
-        "ses": "01",
-        "hora": "1300-1455",
-        "dias": "L . I . . .",
-        "edificio": "DEDR",
-        "aula": "LC07",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1300-1455",
+                "dias": "L . I . . .",
+                "edificio": "DEDR",
+                "aula": "LC07",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120482",
@@ -738,14 +916,18 @@
         "creditos": "5",
         "cupos": "25",
         "disponibles": "23",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "REYES BARRERA, LUZ MARINA",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A013",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A013",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "132019",
@@ -755,14 +937,18 @@
         "creditos": "5",
         "cupos": "30",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A010",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A010",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "132005",
@@ -772,14 +958,18 @@
         "creditos": "5",
         "cupos": "21",
         "disponibles": "2",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
-        "ses": "01",
-        "hora": "0700-0855",
-        "dias": ". . I . V .",
-        "edificio": "DUCT1",
-        "aula": "LC02",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-0855",
+                "dias": ". . I . V .",
+                "edificio": "DUCT1",
+                "aula": "LC02",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "158798",
@@ -789,14 +979,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "2",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": ". . I . V .",
-        "edificio": "DEDT",
-        "aula": "A010",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": ". . I . V .",
+                "edificio": "DEDT",
+                "aula": "A010",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "132006",
@@ -806,14 +1000,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "BACILIO NAVARRO, HECTOR MISAEL",
-        "ses": "01",
-        "hora": "0700-0855",
-        "dias": ". M . J . .",
-        "edificio": "DUCT2",
-        "aula": "LC04",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-0855",
+                "dias": ". M . J . .",
+                "edificio": "DUCT2",
+                "aula": "LC04",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "145998",
@@ -823,14 +1021,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "14",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DUCT1",
-        "aula": "LC07",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DUCT1",
+                "aula": "LC07",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "132018",
@@ -840,14 +1042,18 @@
         "creditos": "5",
         "cupos": "13",
         "disponibles": "8",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "LANDA HORTA, DANIEL OMAR",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": ". M . J . .",
-        "edificio": "DUCT2",
-        "aula": "LC05",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": ". M . J . .",
+                "edificio": "DUCT2",
+                "aula": "LC05",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "138656",
@@ -857,14 +1063,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "5",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SENCION ECHAURI, FELIPE",
-        "ses": "01",
-        "hora": "1100-1455",
-        "dias": ". . . . V .",
-        "edificio": "DUCT2",
-        "aula": "LC07",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1455",
+                "dias": ". . . . V .",
+                "edificio": "DUCT2",
+                "aula": "LC07",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "145995",
@@ -874,14 +1084,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "2",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "DAVALOS BOITES, MICHEL",
-        "ses": "01",
-        "hora": "1100-1455",
-        "dias": ". . . . V .",
-        "edificio": "DUCT2",
-        "aula": "LC05",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1455",
+                "dias": ". . . . V .",
+                "edificio": "DUCT2",
+                "aula": "LC05",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "90532",
@@ -891,14 +1105,18 @@
         "creditos": "5",
         "cupos": "40",
         "disponibles": "34",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": "L . I . . .",
-        "edificio": "DEDU",
-        "aula": "A016",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": "L . I . . .",
+                "edificio": "DEDU",
+                "aula": "A016",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120484",
@@ -908,14 +1126,18 @@
         "creditos": "5",
         "cupos": "40",
         "disponibles": "2",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": ". M . J . .",
-        "edificio": "DEDU",
-        "aula": "A023",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": ". M . J . .",
+                "edificio": "DEDU",
+                "aula": "A023",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "113991",
@@ -925,14 +1147,26 @@
         "creditos": "5",
         "cupos": "40",
         "disponibles": "4",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": ". M . . . .",
-        "edificio": "DEDV",
-        "aula": "A014",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". M . . . .",
+                "edificio": "DEDV",
+                "aula": "A014",
+                "periodo": "16/01/19 - 31/05/19"
+            },
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". . . J . .",
+                "edificio": "DEDU",
+                "aula": "A017",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "123584",
@@ -942,14 +1176,18 @@
         "creditos": "5",
         "cupos": "40",
         "disponibles": "7",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": "L . I . . .",
-        "edificio": "DEDU",
-        "aula": "A007",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": "L . I . . .",
+                "edificio": "DEDU",
+                "aula": "A007",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "141291",
@@ -959,14 +1197,26 @@
         "creditos": "5",
         "cupos": "35",
         "disponibles": "11",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "JIMENEZ SERRANO, EDUVIGES",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". . . . V .",
-        "edificio": "DEDR",
-        "aula": "A003",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". . . . V .",
+                "edificio": "DEDR",
+                "aula": "A003",
+                "periodo": "16/01/19 - 31/05/19"
+            },
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". . I . . .",
+                "edificio": "DEDR",
+                "aula": "A004",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "114819",
@@ -976,14 +1226,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "10",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "VENTURA NU\u00d1EZ, MARIA PATRICIA",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDR",
-        "aula": "LC06",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDR",
+                "aula": "LC06",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "154482",
@@ -993,14 +1247,18 @@
         "creditos": "5",
         "cupos": "20",
         "disponibles": "0",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
-        "ses": "01",
-        "hora": "1900-2055",
-        "dias": "L . I . . .",
-        "edificio": "DEDR",
-        "aula": "LC05",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1900-2055",
+                "dias": "L . I . . .",
+                "edificio": "DEDR",
+                "aula": "LC05",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "120485",
@@ -1010,14 +1268,18 @@
         "creditos": "5",
         "cupos": "30",
         "disponibles": "22",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ RUIZ, CARLOS MANUEL",
-        "ses": "01",
-        "hora": "0800-1055",
-        "dias": ". . . . V .",
-        "edificio": "DEDT",
-        "aula": "A003",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0800-1055",
+                "dias": ". . . . V .",
+                "edificio": "DEDT",
+                "aula": "A003",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "141264",
@@ -1027,14 +1289,18 @@
         "creditos": "5",
         "cupos": "24",
         "disponibles": "1",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
-        "ses": "01",
-        "hora": "0800-1155",
-        "dias": ". . . . V .",
-        "edificio": "DEDN",
-        "aula": "LE03",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0800-1155",
+                "dias": ". . . . V .",
+                "edificio": "DEDN",
+                "aula": "LE03",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "143401",
@@ -1044,14 +1310,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "22",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GUZMAN CUELLAR, CLAUDIA VERONICA",
-        "ses": "01",
-        "hora": "0800-1155",
-        "dias": ". . . . . S",
-        "edificio": "DEDT",
-        "aula": "A007",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0800-1155",
+                "dias": ". . . . . S",
+                "edificio": "DEDT",
+                "aula": "A007",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "124877",
@@ -1061,14 +1331,18 @@
         "creditos": "8",
         "cupos": "15",
         "disponibles": "6",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "VILLASE\u00d1OR PADILLA, CARLOS ALBERTO",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A007",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A007",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "159311",
@@ -1078,14 +1352,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "11",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
-        "ses": "01",
-        "hora": "0700-1055",
-        "dias": "L . . . . .",
-        "edificio": "DEDX",
-        "aula": "A019",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-1055",
+                "dias": "L . . . . .",
+                "edificio": "DEDX",
+                "aula": "A019",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "103851",
@@ -1095,14 +1373,18 @@
         "creditos": "8",
         "cupos": "11",
         "disponibles": "10",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "ZALDIVAR NAVARRO, DANIEL",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A018",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A018",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153410",
@@ -1112,14 +1394,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "RIOS ARRA\u00d1AGA, JORGE DANIEL",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A014",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A014",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "138662",
@@ -1129,14 +1415,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "13",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "RIOS ARRA\u00d1AGA, JORGE DANIEL",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DUCT2",
-        "aula": "LC10",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DUCT2",
+                "aula": "LC10",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "146003",
@@ -1146,14 +1436,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "10",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A012",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A012",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "132020",
@@ -1163,14 +1457,18 @@
         "creditos": "8",
         "cupos": "20",
         "disponibles": "9",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GOMEZ AVILA, JAVIER ENRIQUE",
-        "ses": "01",
-        "hora": "1500-1655",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A012",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1500-1655",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A012",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153411",
@@ -1180,14 +1478,18 @@
         "creditos": "8",
         "cupos": "25",
         "disponibles": "9",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
-        "ses": "01",
-        "hora": "0700-0855",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A008",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-0855",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A008",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "138661",
@@ -1197,14 +1499,18 @@
         "creditos": "8",
         "cupos": "35",
         "disponibles": "6",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "HERNANDEZ CASAS, ANGEL TONATIUH",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A007",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A007",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "92798",
@@ -1214,14 +1520,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "SANCHEZ ESTRADA, JAIRO CAIN",
-        "ses": "01",
-        "hora": "1100-1255",
-        "dias": "L . I . . .",
-        "edificio": "DEDX",
-        "aula": "A018",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1100-1255",
+                "dias": "L . I . . .",
+                "edificio": "DEDX",
+                "aula": "A018",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "80727",
@@ -1231,14 +1541,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
-        "ses": "01",
-        "hora": "0700-0855",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A014",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0700-0855",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A014",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153414",
@@ -1248,14 +1562,18 @@
         "creditos": "8",
         "cupos": "30",
         "disponibles": "29",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "REYES BARRERA, LUZ MARINA",
-        "ses": "01",
-        "hora": "1300-1455",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A005",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1300-1455",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A005",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153416",
@@ -1265,14 +1583,18 @@
         "creditos": "8",
         "cupos": "29",
         "disponibles": "0",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "LOPEZ FRANCO, CARLOS ALBERTO",
-        "ses": "01",
-        "hora": "0900-1055",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A001",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "0900-1055",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A001",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     },
     {
         "nrc": "153417",
@@ -1282,13 +1604,17 @@
         "creditos": "8",
         "cupos": "35",
         "disponibles": "3",
-        "num_profesor": "01",
+        "ses_profesor": "01",
         "profesor": "GOMEZ AVILA, JAVIER ENRIQUE",
-        "ses": "01",
-        "hora": "1700-1855",
-        "dias": ". M . J . .",
-        "edificio": "DEDX",
-        "aula": "A007",
-        "periodo": "16/01/19 - 31/05/19"
+        "horario": [
+            {
+                "ses_horario": "01",
+                "hora": "1700-1855",
+                "dias": ". M . J . .",
+                "edificio": "DEDX",
+                "aula": "A007",
+                "periodo": "16/01/19 - 31/05/19"
+            }
+        ]
     }
 ]

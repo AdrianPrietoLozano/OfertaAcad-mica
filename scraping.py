@@ -42,28 +42,37 @@ class OfertaAcademica:
 	def separar_datos_profesor(self, datos_profesor):
 		diccionario = {}
 		if len(datos_profesor) > 0:
-				diccionario["num_profesor"] = datos_profesor[0].text
+				diccionario["ses_profesor"] = datos_profesor[0].text
 				diccionario["profesor"] = datos_profesor[1].text
 		else:
-			diccionario["num_profesor"] = -1
+			diccionario["ses_profesor"] = -1
 			diccionario["profesor"] = "N/A"
 
 		return diccionario
 
 	def separar_datos_horario(self, datos_horario):
-		diccionario = {}
-		if len(datos_horario) > 0:
-			diccionario["ses"] = datos_horario[0].text
-			diccionario["hora"] = datos_horario[1].text
-			diccionario["dias"] = datos_horario[2].text
-			diccionario["edificio"] = datos_horario[3].text
-			diccionario["aula"] = datos_horario[4].text
-			diccionario["periodo"] = datos_horario[5].text
-		else:
-			diccionario["ses"] = diccionario["hora"] = diccionario["dias"] = \
-			diccionario["edificio"] = diccionario["aula"] = diccionario["periodo"] = "N/A"
+		
+		lista_horarios = []
+		tablas = datos_horario.find_all("tr")
 
-		return diccionario
+		for tabla in tablas:
+			diccionario = {}
+			datos = tabla.find_all("td")
+
+			if len(datos) > 0:
+				diccionario["ses_horario"] = datos[0].text
+				diccionario["hora"] = datos[1].text
+				diccionario["dias"] = datos[2].text
+				diccionario["edificio"] = datos[3].text
+				diccionario["aula"] = datos[4].text
+				diccionario["periodo"] = datos[5].text
+				#fecha_inicio, fecha_fin = separar_fechas(datos[5].text)
+				#diccionario["fecha_inicio"] = fecha_inicio
+				#diccionario["fecha_fin"] = fecha_inicio
+
+				lista_horarios.append(diccionario)
+
+		return lista_horarios
 
 	def to_json(self, lista, nombre_archivo):
 		with open(nombre_archivo, "w") as archivo:
@@ -81,8 +90,8 @@ class OfertaAcademica:
 				datos_profesor = fila.find_all("td", {"class": "tdprofesor"})
 				diccionario.update(self.separar_datos_profesor(datos_profesor))
 
-				datos_horario = fila.find_all("td", {"width": re.compile("")})
-				diccionario.update(self.separar_datos_horario(datos_horario))
+				datos_horario = fila.find("table", {"class": "td1"})
+				diccionario["horario"] = self.separar_datos_horario(datos_horario)
 
 				lista.append(diccionario)
 
