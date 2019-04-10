@@ -16,3 +16,6 @@ CREATE TABLE perido(
 	fecha_inicio DATE NOT NULL,
 	fecha_fin DATE NOT NULL
 );
+
+CREATE TABLE horario(
+);
