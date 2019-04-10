@@ -1,3 +1,7 @@
+DROP DATABASE oferta_academica;
+CREATE DATABASE oferta_academica;
+USE oferta_academica;
+
 CREATE TABLE materia(
 	id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
 	nombre VARCHAR(100) NOT NULL,
@@ -24,6 +28,7 @@ CREATE TABLE instancia_materia(
 	nrc INT UNSIGNED PRIMARY KEY,
 	cupos SMALLINT,
 	disponible SMALLINT,
+	seccion VARCHAR(10),
 	id_materia INT UNSIGNED NOT NULL,
 	id_profesor INT UNSIGNED NOT NULL,
 	id_periodo INT UNSIGNED NOT NULL,
@@ -43,6 +48,11 @@ CREATE TABLE horario(
 	nrc_instancia_materia INT UNSIGNED NOT NULL,
 	FOREIGN KEY(nrc_instancia_materia) REFERENCES instancia_materia(nrc)
 );
+
+
+INSERT INTO periodo(fecha_inicio, fecha_fin)
+	VALUES(STR_TO_DATE('16/01/19','%d/%m/%Y'),
+			STR_TO_DATE('31/05/19','%d/%m/%Y'));
 
 
 GRANT ALL PRIVILEGES ON oferta_academica . * TO 'adrian'@'localhost';

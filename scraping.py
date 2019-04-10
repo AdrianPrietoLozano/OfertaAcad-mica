@@ -45,7 +45,7 @@ class OfertaAcademica:
 				diccionario["ses_profesor"] = datos_profesor[0].text
 				diccionario["profesor"] = datos_profesor[1].text
 		else:
-			diccionario["ses_profesor"] = -1
+			diccionario["ses_profesor"] = 0
 			diccionario["profesor"] = "N/A"
 
 		return diccionario
