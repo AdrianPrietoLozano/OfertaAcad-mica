@@ -10,6 +10,7 @@ conexion = mysql.connector.connect(
     database='oferta_academica')
 cursor = conexion.cursor()
 
+id_periodo = 1
 
 def insertar_materia(oferta_materia):
     insert = "INSERT INTO materia(nombre, clave, creditos) "\
@@ -47,9 +48,25 @@ def insertar_profesor(oferta_materia):
     conexion.commit()
     return cursor.lastrowid
 
+
+def insertar_instancia_materia(oferta_materia, id_materia, id_profesor, id_periodo):
+    insert = "INSERT INTO instancia_materia(nrc, cupos, disponibles, seccion, " \
+			"carrera, id_materia, id_profesor, id_periodo) "\
+			"VALUES(%s, %s, %s, %s, %s, %s, %s, %s)"
+    cursor.execute(insert, (oferta_materia["nrc"],
+							oferta_materia["cupos"],
+							oferta_materia["disponibles"],
+							oferta_materia["seccion"],
+							oferta_materia["carrera"],
+							id_materia,
+							id_profesor,
+							id_periodo))
+    conexion.commit()
+    return cursor.lastrowid
+
+
 for file in files:
     with open(file) as f:
-        print(f.name)
         ofertas = json.load(f)
         for oferta in ofertas:
             # MATERIA
@@ -60,10 +77,30 @@ for file in files:
             # PROFESOR
             id_profesor = get_id_profesor(oferta["profesor"])
             if id_profesor == -1: # no existe el profesor
-                id_materia = insertar_profesor(oferta)
-            
+                id_profesor = insertar_profesor(oferta)
+
+            # INSTANCIA_MATERIA
+            id_instancia_materia = insertar_instancia_materia(oferta,
+                        									id_materia,
+                        									id_profesor,
+                        									id_periodo)
+
+            for horario in oferta["horario"]:
+                insert = "INSERT INTO horario(hora, ses, dias, aula, edificio, "\
+                		"id_instancia_materia) VALUES (%s, %s, %s, %s, %s, %s)"
+                cursor.execute(insert, (horario["hora"],
+                						horario["ses_horario"],
+                						horario["dias"],
+                						horario["aula"],
+                						horario["edificio"],
+                						id_instancia_materia))
+                conexion.commit()
+        print("Listo", f.name)
 
 
 conexion.close()
+
+
+
 
             

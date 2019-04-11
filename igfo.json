@@ -9,6 +9,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "CASTILLO QUEVEDO, CESAR",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -38,6 +39,7 @@
         "disponibles": "25",
         "ses_profesor": "01",
         "profesor": "MU\u00d1OZ MENDOZA, LUIS FELIPE",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -59,6 +61,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "OBREGON PULIDO, GUILLERMO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -80,6 +83,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -101,6 +105,7 @@
         "disponibles": "-5",
         "ses_profesor": "01",
         "profesor": "PACHECO PADILLA, LUIS MANUEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -122,6 +127,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "AMEZCUA ESPARZA, FELIPE DE JESUS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -143,6 +149,7 @@
         "disponibles": "-2",
         "ses_profesor": "01",
         "profesor": "CASILLAS DE LA TORRE, SERGIO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -164,6 +171,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -201,6 +209,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ GARCIA, JUAN CARLOS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -222,6 +231,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -243,6 +253,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "GONZALEZ ROMERO, JAIME RICARDO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -272,6 +283,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "MURILLO LEA\u00d1O, MARIA MAGDALENA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -293,6 +305,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -314,6 +327,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "SANTIAGO HERNANDEZ, HECTOR",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -335,6 +349,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "FLORES NU\u00d1EZ, JORGE LUIS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -356,6 +371,7 @@
         "disponibles": "22",
         "ses_profesor": "01",
         "profesor": "SANTIAGO HERNANDEZ, HECTOR",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -377,6 +393,7 @@
         "disponibles": "24",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOZANO, FRANCISCO JOEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -398,6 +415,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "VALTIERRA CARRANZA, IVAN FERNANDO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -427,6 +445,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "ALCALA GUTIERREZ, JAIME",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -448,6 +467,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "ALCALA GUTIERREZ, JAIME",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -469,6 +489,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ BEAZ, RICARDO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -490,6 +511,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -511,6 +533,7 @@
         "disponibles": "31",
         "ses_profesor": "01",
         "profesor": "SANCHEZ ALVAREZ, MIGUEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -532,6 +555,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "CASTILLO QUEVEDO, CESAR",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -550,9 +574,10 @@
         "seccion": "D01",
         "creditos": "8",
         "cupos": "30",
-        "disponibles": "15",
+        "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "NAVARRETE NAVARRETE, LUIS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -571,9 +596,10 @@
         "seccion": "D01",
         "creditos": "8",
         "cupos": "30",
-        "disponibles": "11",
+        "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "SERRANO GARCIA, DAVID IGNACIO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -595,6 +621,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOZANO, FRANCISCO JOEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -616,6 +643,7 @@
         "disponibles": "27",
         "ses_profesor": "01",
         "profesor": "SERRANO GARCIA, DAVID IGNACIO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -637,6 +665,7 @@
         "disponibles": "24",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -658,6 +687,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -687,6 +717,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "HERRERA PE\u00d1A, KARLA GABRIELA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -708,6 +739,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -729,6 +761,7 @@
         "disponibles": "21",
         "ses_profesor": "01",
         "profesor": "MEJIA MARIN, MARIA ESTHER",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -750,6 +783,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "BALDERAS MATA, SANDRA ELOISA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -771,6 +805,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -789,9 +824,10 @@
         "seccion": "D02",
         "creditos": "8",
         "cupos": "20",
-        "disponibles": "11",
+        "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "IBARRA TORRES, JUAN CARLOS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -813,6 +849,7 @@
         "disponibles": "22",
         "ses_profesor": "01",
         "profesor": "SANTOS ARCE, STEWART RENE",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -842,6 +879,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -863,6 +901,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -884,6 +923,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -902,9 +942,10 @@
         "seccion": "D01",
         "creditos": "8",
         "cupos": "30",
-        "disponibles": "19",
+        "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "MU\u00d1OZ MENDOZA, LUIS FELIPE",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -926,6 +967,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "DURON GONZALEZ, MONICA JUDITH",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -947,6 +989,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -968,6 +1011,7 @@
         "disponibles": "29",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ HERNANDEZ, HECTOR",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -989,6 +1033,7 @@
         "disponibles": "12",
         "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1010,6 +1055,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "VENTURA NU\u00d1EZ, MARIA PATRICIA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1031,6 +1077,7 @@
         "disponibles": "21",
         "ses_profesor": "01",
         "profesor": "GARCIA TORALES, GUILLERMO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1052,6 +1099,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1073,6 +1121,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1094,6 +1143,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "CHAVEZ MARTINEZ, EHECATL JOEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1115,6 +1165,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ MONTELONGO, ROSAURA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1136,6 +1187,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "ORTEGA SANCHEZ, NOE",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1157,6 +1209,7 @@
         "disponibles": "-2",
         "ses_profesor": "01",
         "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1178,6 +1231,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1199,6 +1253,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1220,6 +1275,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1241,6 +1297,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1262,6 +1319,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1283,6 +1341,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1304,6 +1363,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1325,6 +1385,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1346,6 +1407,7 @@
         "disponibles": "34",
         "ses_profesor": "01",
         "profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1367,6 +1429,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1388,6 +1451,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1417,6 +1481,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1435,9 +1500,10 @@
         "seccion": "D03",
         "creditos": "5",
         "cupos": "35",
-        "disponibles": "11",
+        "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1467,6 +1533,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "VENTURA NU\u00d1EZ, MARIA PATRICIA",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1488,6 +1555,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1509,6 +1577,7 @@
         "disponibles": "23",
         "ses_profesor": "01",
         "profesor": "TORRES ORTEGA, HECTOR HUGO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1538,6 +1607,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1559,6 +1629,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOZANO, FRANCISCO JOEL",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1577,9 +1648,10 @@
         "seccion": "D02",
         "creditos": "8",
         "cupos": "30",
-        "disponibles": "5",
+        "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "SERRANO GARCIA, DAVID IGNACIO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1601,6 +1673,7 @@
         "disponibles": "21",
         "ses_profesor": "01",
         "profesor": "GARCIA RAMIREZ, MARIO ALBERTO",
+        "carrera": "IGFO",
         "horario": [
             {
                 "ses_horario": "01",

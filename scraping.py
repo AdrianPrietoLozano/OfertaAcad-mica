@@ -90,6 +90,8 @@ class OfertaAcademica:
 				datos_profesor = fila.find_all("td", {"class": "tdprofesor"})
 				diccionario.update(self.separar_datos_profesor(datos_profesor))
 
+				diccionario["carrera"] = carrera.upper()
+
 				datos_horario = fila.find("table", {"class": "td1"})
 				diccionario["horario"] = self.separar_datos_horario(datos_horario)
 

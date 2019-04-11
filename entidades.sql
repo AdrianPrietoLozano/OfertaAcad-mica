@@ -25,10 +25,12 @@ CREATE TABLE periodo(
 
 
 CREATE TABLE instancia_materia(
-	nrc INT UNSIGNED PRIMARY KEY,
+	id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+	nrc VARCHAR(20),
 	cupos SMALLINT,
-	disponible SMALLINT,
+	disponibles SMALLINT,
 	seccion VARCHAR(10),
+	carrera CHAR(10),
 	id_materia INT UNSIGNED NOT NULL,
 	id_profesor INT UNSIGNED NOT NULL,
 	id_periodo INT UNSIGNED NOT NULL,
@@ -45,8 +47,8 @@ CREATE TABLE horario(
 	dias VARCHAR(10) NOT NULL,
 	aula VARCHAR(10) NOT NULL,
 	edificio VARCHAR(10) NOT NULL,
-	nrc_instancia_materia INT UNSIGNED NOT NULL,
-	FOREIGN KEY(nrc_instancia_materia) REFERENCES instancia_materia(nrc)
+	id_instancia_materia INT UNSIGNED NOT NULL,
+	FOREIGN KEY(id_instancia_materia) REFERENCES instancia_materia(id)
 );
 
 

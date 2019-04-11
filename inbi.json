@@ -9,6 +9,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "ROMO VAZQUEZ, REBECA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -38,6 +39,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ GARCIA, JUAN CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -59,6 +61,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "POSGRADOS, HONORIFICO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -80,6 +83,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "DE LA TORRE VALDOVINOS, BRANIFF",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -101,6 +105,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "DE LA TORRE VALDOVINOS, BRANIFF",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -122,6 +127,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "POSGRADOS, HONORIFICO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -143,6 +149,7 @@
         "disponibles": "22",
         "ses_profesor": "01",
         "profesor": "TORO CASTILLO, MARIA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -172,6 +179,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "CURIEL LOPEZ, FATIMA BELEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -193,6 +201,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "TORO CASTILLO, MARIA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -214,6 +223,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "CASTELLANOS ALVARADO, ESTELA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -235,6 +245,7 @@
         "disponibles": "12",
         "ses_profesor": "01",
         "profesor": "RAMIREZ ANGULO, ROBERTO CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -256,6 +267,7 @@
         "disponibles": "22",
         "ses_profesor": "01",
         "profesor": "CURIEL LOPEZ, FATIMA BELEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -277,6 +289,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "CASTELLANOS ALVARADO, ESTELA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -298,6 +311,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ULLOA GODINEZ, GUADALUPE SANDRA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -319,6 +333,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "RAMIREZ ALBA, CECILIA ERIKA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -340,6 +355,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ MONTELONGO, ROSAURA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -361,6 +377,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "ORTIZ CALOCA, MANUEL MAURICIO ARTURO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -390,6 +407,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ GARCIA, JUAN CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -411,6 +429,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "GOMEZ RODRIGUEZ, PEDRO MISRAIM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -432,6 +451,7 @@
         "disponibles": "25",
         "ses_profesor": "01",
         "profesor": "LANDA HORTA, DANIEL OMAR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -453,6 +473,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "GONZALEZ ROJAS, JOSE MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -474,6 +495,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "SOLIS PERALES, GUALBERTO CELESTINO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -495,6 +517,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GONZALEZ ROJAS, JOSE MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -516,6 +539,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GARCIA GUTIERREZ, VICTOR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -537,6 +561,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -558,6 +583,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "GARCIA GIL, GERARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -579,6 +605,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "PACHECO PADILLA, LUIS MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -600,6 +627,7 @@
         "disponibles": "-2",
         "ses_profesor": "01",
         "profesor": "GONZALEZ BECERRA, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -621,6 +649,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "AVALOS ALVAREZ, OMAR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -642,6 +671,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "RUVALCABA BECERRA, CARLOS MARIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -663,6 +693,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ MORALES, LEOBARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -684,6 +715,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CASILLAS ZAMORA, ANTONIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -705,6 +737,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "MONTES RUELAS, J. JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -726,6 +759,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "MONTES RUELAS, J. JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -747,6 +781,7 @@
         "disponibles": "23",
         "ses_profesor": "01",
         "profesor": "MONTES RUELAS, J. JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -768,6 +803,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "MONTES RUELAS, J. JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -789,6 +825,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "AMEZCUA ESPARZA, FELIPE DE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -810,6 +847,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ FRIAS, ERIC FRANCISCO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -831,6 +869,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ FRIAS, ERIC FRANCISCO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -852,6 +891,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "GRAJEDA COVARRUBIAS, ARTURO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -873,6 +913,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "GRAJEDA COVARRUBIAS, ARTURO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -894,6 +935,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "ARREDONDO Y OLIVA, MARTHA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -915,6 +957,7 @@
         "disponibles": "26",
         "ses_profesor": "01",
         "profesor": "ARREDONDO Y OLIVA, MARTHA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -936,6 +979,7 @@
         "disponibles": "25",
         "ses_profesor": "01",
         "profesor": "VILLEGAS GONZALEZ, JOSE MARTIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -957,6 +1001,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ RODRIGUEZ, PEDRO MISRAIM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -978,6 +1023,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ GARCIA, TANIA ANAID",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -999,6 +1045,7 @@
         "disponibles": "20",
         "ses_profesor": "01",
         "profesor": "TORO CASTILLO, MARIA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1020,6 +1067,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "LOPEZ FRANCO, ADRIANA LISET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1041,6 +1089,7 @@
         "disponibles": "20",
         "ses_profesor": "01",
         "profesor": "LOPEZ FRANCO, ADRIANA LISET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1062,6 +1111,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "MORALES VALENCIA, JOSE ALEJANDRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1083,6 +1133,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "LOPEZ FRANCO, ADRIANA LISET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1104,6 +1155,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "DE LA TORRE VALDOVINOS, BRANIFF",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1125,6 +1177,7 @@
         "disponibles": "22",
         "ses_profesor": "01",
         "profesor": "LOPEZ FRANCO, ADRIANA LISET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1146,6 +1199,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "DE LA PE\u00d1A SALAZAR, RENE ARMANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1167,6 +1221,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "GARCIA RAMIREZ, MARIO ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1188,6 +1243,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "VELASCO RIVERA, JORGE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1209,6 +1265,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "RAMOS PULIDO, SOFIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1230,6 +1287,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "NAVA GOMEZ, JAVIER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1251,6 +1309,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "DIAZ CALDERA, LIZBETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1272,6 +1331,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "PRADO ALONSO, MARIO ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1293,6 +1353,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "PRADO ALONSO, MARIO ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1322,6 +1383,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1343,6 +1405,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ROSALIO CUEVAS, SAMUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1372,6 +1435,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1393,6 +1457,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CENTENO QUEVEDO, JUAN JERONIMO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1414,6 +1479,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CENTENO QUEVEDO, JUAN JERONIMO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1435,6 +1501,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "BUENROSTRO ARCEO, ROSALIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1456,6 +1523,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "RODRIGUEZ MARTINEZ, AGUSTIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1477,6 +1545,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "CAMACHO CASTILLO, OSVALDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1498,6 +1567,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1519,6 +1589,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MARTINEZ VAZQUEZ, RICARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1548,6 +1619,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "LOPEZ ALCALA, MARITZA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1575,8 +1647,9 @@
         "creditos": "16",
         "cupos": "0",
         "disponibles": "0",
-        "ses_profesor": -1,
+        "ses_profesor": 0,
         "profesor": "N/A",
+        "carrera": "INBI",
         "horario": []
     },
     {
@@ -1587,8 +1660,9 @@
         "creditos": "16",
         "cupos": "0",
         "disponibles": "0",
-        "ses_profesor": -1,
+        "ses_profesor": 0,
         "profesor": "N/A",
+        "carrera": "INBI",
         "horario": []
     },
     {
@@ -1601,6 +1675,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "ORTIZ CALOCA, MANUEL MAURICIO ARTURO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1622,6 +1697,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "OCHOA RAMIREZ, BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1643,6 +1719,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "POSGRADOS, HONORIFICO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1664,6 +1741,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "OCHOA RAMIREZ, BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1685,6 +1763,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "OCHOA RAMIREZ, BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1706,6 +1785,7 @@
         "disponibles": "26",
         "ses_profesor": "01",
         "profesor": "ARREDONDO Y OLIVA, MARTHA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1727,6 +1807,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "RAMIREZ ANGULO, ROBERTO CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1748,6 +1829,7 @@
         "disponibles": "29",
         "ses_profesor": "01",
         "profesor": "ARREDONDO Y OLIVA, MARTHA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1769,6 +1851,7 @@
         "disponibles": "-3",
         "ses_profesor": "01",
         "profesor": "RAMIREZ ANGULO, ROBERTO CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1790,6 +1873,7 @@
         "disponibles": "27",
         "ses_profesor": "01",
         "profesor": "OCHOA RAMIREZ, BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1819,6 +1903,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "GOMEZ RODRIGUEZ, PEDRO MISRAIM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1840,6 +1925,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "BORRAYO CARBAJAL, ERNESTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1861,6 +1947,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "CASTELLANOS ALVARADO, ESTELA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1882,6 +1969,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "MENDEZ PALOS, EDUARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1903,6 +1991,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ RODRIGUEZ, PEDRO MISRAIM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1924,6 +2013,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "ACEVES ALDRETE, FRANCISCO JAVIER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1945,6 +2035,7 @@
         "disponibles": "32",
         "ses_profesor": "01",
         "profesor": "MENDEZ PALOS, EDUARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1966,6 +2057,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "POSGRADOS, HONORIFICO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -1987,6 +2079,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "RAMIREZ ANGULO, ROBERTO CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2008,6 +2101,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2037,6 +2131,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "RAMIREZ MORENO, BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2058,6 +2153,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2079,6 +2175,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "VILLALOBOS JIMENEZ, SARA EDITH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2100,6 +2197,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2121,6 +2219,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CORONA SANCHEZ, JUAN CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2142,6 +2241,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2163,6 +2263,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2184,6 +2285,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2205,6 +2307,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CORTINA, JUAN MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2226,6 +2329,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2247,6 +2351,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "ARELLANO HERNANDEZ, JORGE MARIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2268,6 +2373,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "MARTINEZ VAZQUEZ, RICARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2289,6 +2395,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2318,6 +2425,7 @@
         "disponibles": "24",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CORTINA, JUAN MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2339,6 +2447,7 @@
         "disponibles": "22",
         "ses_profesor": "01",
         "profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2360,6 +2469,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "GODINEZ DIETRICH, GABRIELA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2381,6 +2491,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2402,6 +2513,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "SALDIVAR OROZCO, EMMANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2423,6 +2535,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2444,6 +2557,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2465,6 +2579,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ HERNANDEZ, ROSA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2486,6 +2601,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2515,6 +2631,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2536,6 +2653,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "RAMIREZ MORENO, BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2557,6 +2675,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "ESPINO ROJAS, NORMA ELVA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2578,6 +2697,7 @@
         "disponibles": "20",
         "ses_profesor": "01",
         "profesor": "LUNA ARELLANO, MAYRA LORENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2599,6 +2719,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "ELIZALDE CAMINO, FERNANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2620,6 +2741,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2641,6 +2763,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2662,6 +2785,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2683,6 +2807,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "ELIZALDE CAMINO, FERNANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2712,6 +2837,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CORONA, GUSTAVO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2733,6 +2859,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2754,6 +2881,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2775,6 +2903,7 @@
         "disponibles": "-2",
         "ses_profesor": "01",
         "profesor": "AREVALO CARDONA, ALFREDO MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2796,6 +2925,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2817,6 +2947,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "AGUILA GOMEZ, RICARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2838,6 +2969,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "SOLIS RODRIGUEZ, JOSE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2859,6 +2991,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2880,6 +3013,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2901,6 +3035,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "AREVALO CARDONA, ALFREDO MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2922,6 +3057,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "AREVALO CARDONA, ALFREDO MANUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2943,6 +3079,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "MEJIA MARIN, MARIA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2964,6 +3101,7 @@
         "disponibles": "21",
         "ses_profesor": "01",
         "profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -2985,6 +3123,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "ELIZALDE CAMINO, FERNANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3014,6 +3153,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3035,6 +3175,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3056,6 +3197,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3077,6 +3219,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3098,6 +3241,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "LOPEZ ALCALA, MARITZA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3119,6 +3263,7 @@
         "disponibles": "29",
         "ses_profesor": "01",
         "profesor": "MACIAS SANDOVAL, OMAR VLADIMIR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3148,6 +3293,7 @@
         "disponibles": "12",
         "ses_profesor": "01",
         "profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3169,6 +3315,7 @@
         "disponibles": "-3",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3190,6 +3337,7 @@
         "disponibles": "24",
         "ses_profesor": "01",
         "profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3211,6 +3359,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3232,6 +3381,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3253,6 +3403,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3274,6 +3425,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "DE LA CRUZ GARCIA, ELBA LILIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3295,6 +3447,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3316,6 +3469,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3345,6 +3499,7 @@
         "disponibles": "29",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3366,6 +3521,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOMELI, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3387,6 +3543,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "TORRES CORTEZ, OMAR RAFAEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3408,6 +3565,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOMELI, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3429,6 +3587,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "GUILLEN BONILLA, JOSE TRINIDAD",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3450,6 +3609,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "MENDIZABAL RUIZ, EDUARDO GERARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3471,6 +3631,7 @@
         "disponibles": "27",
         "ses_profesor": "01",
         "profesor": "RAMIREZ HERNANDEZ, NORMA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3492,6 +3653,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "GUTIERREZ GARCIA, JUAN CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3513,6 +3675,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "SALIDO RUIZ, RICARDO ANTONIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3534,6 +3697,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "RAMIREZ HERNANDEZ, NORMA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3555,6 +3719,7 @@
         "disponibles": "24",
         "ses_profesor": "01",
         "profesor": "RAMIREZ HERNANDEZ, NORMA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3576,6 +3741,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "BURIEL AVILA, EMILIANO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3597,6 +3763,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ROMERO GASTELU, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3618,6 +3785,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3639,6 +3807,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3660,6 +3829,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3681,6 +3851,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "SANCHEZ ROSARIO, PATRICIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3702,6 +3873,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3723,6 +3895,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESQUIVEL TORRES, SARA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3744,6 +3917,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "OSORIO ANGEL, SONIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3765,6 +3939,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "CAMACHO SANTILLAN, VERONICA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3786,6 +3961,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "ESQUIVEL TORRES, SARA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3807,6 +3983,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "BURIEL AVILA, EMILIANO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3828,6 +4005,7 @@
         "disponibles": "29",
         "ses_profesor": "01",
         "profesor": "LOPEZ LOPEZ, LAURA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3849,6 +4027,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3870,6 +4049,7 @@
         "disponibles": "20",
         "ses_profesor": "01",
         "profesor": "CRUZ GOMEZ, CONRADO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3891,6 +4071,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3912,6 +4093,7 @@
         "disponibles": "11",
         "ses_profesor": "01",
         "profesor": "SANCHEZ ROSARIO, PATRICIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3933,6 +4115,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3954,6 +4137,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "MORALES GONZALEZ, LEOPOLDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3975,6 +4159,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -3996,6 +4181,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4017,6 +4203,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4038,6 +4225,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4059,6 +4247,7 @@
         "disponibles": "26",
         "ses_profesor": "01",
         "profesor": "HERRERA PE\u00d1A, KARLA GABRIELA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4080,6 +4269,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "CAMACHO SANTILLAN, VERONICA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4101,6 +4291,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESTRADA GUZMAN, ELSA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4122,6 +4313,7 @@
         "disponibles": "12",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4143,6 +4335,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "OSORIO ANGEL, SONIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4164,6 +4357,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4185,6 +4379,7 @@
         "disponibles": "20",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4206,6 +4401,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "BURIEL AVILA, EMILIANO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4227,6 +4423,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "MU\u00d1OZ GOMEZ, LUIS ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4248,6 +4445,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "DE LA PE\u00d1A SALAZAR, RENE ARMANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4277,6 +4475,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GONZALEZ REGALADO, CARLOS ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4298,6 +4497,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "DE LA PE\u00d1A SALAZAR, RENE ARMANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4319,6 +4519,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "MORAN LOZA, JOSE MIGUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4340,6 +4541,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "RAYGOZA PANDURO, JUAN JOSE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4361,6 +4563,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4382,6 +4585,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4403,6 +4607,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "DIAZ ACEVES, JOSE DE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4424,6 +4629,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "VELEZ PEREZ, HUGO ABRAHAM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4453,6 +4659,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "VELEZ PEREZ, HUGO ABRAHAM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4474,6 +4681,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "POSGRADOS, HONORIFICO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4493,8 +4701,9 @@
         "creditos": "15",
         "cupos": "80",
         "disponibles": "12",
-        "ses_profesor": -1,
+        "ses_profesor": 0,
         "profesor": "N/A",
+        "carrera": "INBI",
         "horario": []
     },
     {
@@ -4505,8 +4714,9 @@
         "creditos": "15",
         "cupos": "80",
         "disponibles": "9",
-        "ses_profesor": -1,
+        "ses_profesor": 0,
         "profesor": "N/A",
+        "carrera": "INBI",
         "horario": []
     },
     {
@@ -4517,8 +4727,9 @@
         "creditos": "15",
         "cupos": "80",
         "disponibles": "9",
-        "ses_profesor": -1,
+        "ses_profesor": 0,
         "profesor": "N/A",
+        "carrera": "INBI",
         "horario": []
     },
     {
@@ -4531,6 +4742,7 @@
         "disponibles": "27",
         "ses_profesor": "01",
         "profesor": "OSUNA CARRASCO, LAURA PAULINA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4552,6 +4764,7 @@
         "disponibles": "13",
         "ses_profesor": "01",
         "profesor": "RAMOS GUILLEN, JOSE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4573,6 +4786,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "RAMIREZ ANGULO, ROBERTO CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4594,6 +4808,7 @@
         "disponibles": "33",
         "ses_profesor": "01",
         "profesor": "SALIDO RUIZ, RICARDO ANTONIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4615,6 +4830,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "RAMOS GUILLEN, JOSE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4636,6 +4852,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ RODRIGUEZ, PEDRO MISRAIM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4657,6 +4874,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "POSGRADOS, HONORIFICO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4678,6 +4896,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "MORAN LOZA, JOSE MIGUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4699,6 +4918,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ RODRIGUEZ, PEDRO MISRAIM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4720,6 +4940,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "ARREDONDO Y OLIVA, MARTHA ADRIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4741,6 +4962,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "DE LA MORA GALVEZ, ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4762,6 +4984,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "CURIEL LOPEZ, FATIMA BELEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4791,6 +5014,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "DE LA MORA GALVEZ, ALBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4812,6 +5036,7 @@
         "disponibles": "17",
         "ses_profesor": "01",
         "profesor": "CURIEL LOPEZ, FATIMA BELEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4833,6 +5058,7 @@
         "disponibles": "12",
         "ses_profesor": "01",
         "profesor": "MORAN LOZA, JOSE MIGUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4854,6 +5080,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "GALVEZ RODRIGUEZ, JORGE DE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4875,6 +5102,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "DE LA PE\u00d1A SALAZAR, RENE ARMANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4896,6 +5124,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CARRION CORTES, JOSE MARIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4917,6 +5146,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "RAMOS GUILLEN, JOSE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4938,6 +5168,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "GALVEZ RODRIGUEZ, JORGE DE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4959,6 +5190,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "GONZALEZ BECERRA, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -4980,6 +5212,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "RAMOS GUILLEN, JOSE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5001,6 +5234,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CASILLAS DE LA TORRE, SERGIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5022,6 +5256,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5043,6 +5278,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5064,6 +5300,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5093,6 +5330,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5114,6 +5352,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5135,6 +5374,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5156,6 +5396,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOMELI, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5185,6 +5426,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5206,6 +5448,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5227,6 +5470,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5256,6 +5500,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOMELI, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5277,6 +5522,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "ESPINO ROJAS, NORMA ELVA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5298,6 +5544,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ROMERO GASTELU, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5319,6 +5566,7 @@
         "disponibles": "24",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5340,6 +5588,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "PAREDES AGUILA, IRMA YOLANDA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5361,6 +5610,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "FUENTES FIGUEROA, EDGAR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5390,6 +5640,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESQUIVEL TORRES, SARA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5411,6 +5662,7 @@
         "disponibles": "19",
         "ses_profesor": "01",
         "profesor": "TORRES CORTEZ, OMAR RAFAEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5432,6 +5684,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5461,6 +5714,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5490,6 +5744,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5511,6 +5766,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5532,6 +5788,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5553,6 +5810,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5574,6 +5832,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5595,6 +5854,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "MARTINEZ SILVA, ROSENDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5616,6 +5876,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5645,6 +5906,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5674,6 +5936,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "MARTINEZ SILVA, ROSENDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5695,6 +5958,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5716,6 +5980,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5737,6 +6002,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5758,6 +6024,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5787,6 +6054,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5808,6 +6076,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "CERVANTES LOMELI, ADRIAN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5829,6 +6098,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "ESPINO ROJAS, NORMA ELVA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5858,6 +6128,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5879,6 +6150,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5908,6 +6180,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "CRUZ GOMEZ, CONRADO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5929,6 +6202,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5958,6 +6232,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "ESPINO ROJAS, NORMA ELVA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -5979,6 +6254,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "ESQUIVEL TORRES, SARA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6000,6 +6276,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "VALDIVIA BAUTISTA, SANDRA MINERVA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6021,6 +6298,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "GARCIA SANCHEZ, FERNANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6050,6 +6328,7 @@
         "disponibles": "-1",
         "ses_profesor": "01",
         "profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6071,6 +6350,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "SOLIS RODRIGUEZ, JOSE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6092,6 +6372,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6113,6 +6394,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6142,6 +6424,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6163,6 +6446,7 @@
         "disponibles": "-2",
         "ses_profesor": "01",
         "profesor": "CASTILLO PEREZ, ALONSO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6184,6 +6468,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6205,6 +6490,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6226,6 +6512,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6255,6 +6542,7 @@
         "disponibles": "16",
         "ses_profesor": "01",
         "profesor": "CORONA SANCHEZ, JUAN CARLOS",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6284,6 +6572,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "ABUNDIS SANCHEZ, MIGUEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6313,6 +6602,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "ELIZALDE CAMINO, FERNANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6334,6 +6624,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "SALAS ZU\u00d1IGA, NORBERTO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6355,6 +6646,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "ELIZALDE CAMINO, FERNANDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6384,6 +6676,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "AGUILA GOMEZ, RICARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6405,6 +6698,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6426,6 +6720,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6447,6 +6742,7 @@
         "disponibles": "23",
         "ses_profesor": "01",
         "profesor": "MONTES NAVARRO, MARIANA SARAHI",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6468,6 +6764,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "SOLIS RODRIGUEZ, JOSE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6497,6 +6794,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6518,6 +6816,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CASTILLO PEREZ, ALONSO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6539,6 +6838,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6560,6 +6860,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6581,6 +6882,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6602,6 +6904,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6623,6 +6926,7 @@
         "disponibles": "12",
         "ses_profesor": "01",
         "profesor": "SOLIS RODRIGUEZ, JOSE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6644,6 +6948,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "ORTIZ PIMENTEL, BELEN ANABETT",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6665,6 +6970,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "GARCIA NAVA, DALMIRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6686,6 +6992,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "MONTES NAVARRO, MARIANA SARAHI",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6715,6 +7022,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "CASTILLO PEREZ, ALONSO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6736,6 +7044,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6757,6 +7066,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6778,6 +7088,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "SOLIS RODRIGUEZ, JOSE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6807,6 +7118,7 @@
         "disponibles": "14",
         "ses_profesor": "01",
         "profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6828,6 +7140,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "BOCARDO GASPAR, MIRIAM",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6849,6 +7162,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "GUERRERO CARLOS, ANA JAZMIN",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6870,6 +7184,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "HERNANDEZ CORONA, GUSTAVO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6899,6 +7214,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6920,6 +7236,7 @@
         "disponibles": "10",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6941,6 +7258,7 @@
         "disponibles": "1",
         "ses_profesor": "01",
         "profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6962,6 +7280,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "MUNGUIA ALCALA, RODRIGO FRANCISCO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -6983,6 +7302,7 @@
         "disponibles": "18",
         "ses_profesor": "01",
         "profesor": "PANTOJA ESPINOZA, DELIAZAR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7004,6 +7324,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "RODRIGUEZ MEDINA, GUADALUPE ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7025,6 +7346,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7046,6 +7368,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7067,6 +7390,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7088,6 +7412,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "MARTINEZ SILVA, ROSENDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7109,6 +7434,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7130,6 +7456,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "BURIEL AVILA, EMILIANO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7151,6 +7478,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "MARTINEZ SILVA, ROSENDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7172,6 +7500,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "BURIEL AVILA, EMILIANO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7193,6 +7522,7 @@
         "disponibles": "23",
         "ses_profesor": "01",
         "profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7214,6 +7544,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7235,6 +7566,7 @@
         "disponibles": "9",
         "ses_profesor": "01",
         "profesor": "SILVA MARES, OSCAR GREGORIO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7264,6 +7596,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7285,6 +7618,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "BURIEL AVILA, EMILIANO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7306,6 +7640,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "BARBA COMPARAN, ANDRES",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7327,6 +7662,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7356,6 +7692,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7385,6 +7722,7 @@
         "disponibles": "8",
         "ses_profesor": "01",
         "profesor": "LOPEZ FRANCO, LUIS EDUARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7406,6 +7744,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "MENDOZA FERNANDEZ, SALVADOR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7427,6 +7766,7 @@
         "disponibles": "15",
         "ses_profesor": "01",
         "profesor": "MENDOZA FERNANDEZ, SALVADOR",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7448,6 +7788,7 @@
         "disponibles": "6",
         "ses_profesor": "01",
         "profesor": "ORTIZ PIMENTEL, BELEN ANABETT",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7469,6 +7810,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "MARTINEZ SILVA, ROSENDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7490,6 +7832,7 @@
         "disponibles": "7",
         "ses_profesor": "01",
         "profesor": "MARTINEZ SILVA, ROSENDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7511,6 +7854,7 @@
         "disponibles": "5",
         "ses_profesor": "01",
         "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7532,6 +7876,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "ESQUIVEL TORRES, SARA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7553,6 +7898,7 @@
         "disponibles": "4",
         "ses_profesor": "01",
         "profesor": "ESQUIVEL TORRES, SARA",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7574,6 +7920,7 @@
         "disponibles": "3",
         "ses_profesor": "01",
         "profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7595,6 +7942,7 @@
         "disponibles": "26",
         "ses_profesor": "01",
         "profesor": "GOMEZ MORALES, LEOBARDO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7624,6 +7972,7 @@
         "disponibles": "0",
         "ses_profesor": "01",
         "profesor": "MEDINA VAZQUEZ, AGUSTIN SANTIAGO",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
@@ -7653,6 +8002,7 @@
         "disponibles": "2",
         "ses_profesor": "01",
         "profesor": "VELASCO RIVERA, JORGE",
+        "carrera": "INBI",
         "horario": [
             {
                 "ses_horario": "01",
