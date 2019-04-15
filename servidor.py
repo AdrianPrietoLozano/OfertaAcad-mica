@@ -13,15 +13,17 @@ cursor = conexion.cursor()
 print("bien")
 @app.route("/api/v1/oferta/")
 def hello():
-    query = "SELECT instancia_materia.id, nrc, cupos, disponibles, seccion, carrera, "\
-            "materia.nombre, clave, creditos, profesor.nombre, " \
-            "profesor.ses, fecha_inicio, fecha_fin "\
+    query = "SELECT instancia_materia.id, nrc, cupos, disponibles, seccion, "\
+            "carrera.nombre, materia.nombre, clave, creditos, " \
+            "profesor.nombre, profesor.ses, fecha_inicio, fecha_fin "\
             "FROM instancia_materia LEFT JOIN materia ON id_materia=materia.id " \
             "LEFT JOIN profesor ON id_profesor=profesor.id "\
-            "LEFT JOIN periodo ON id_periodo=periodo.id"
+            "LEFT JOIN periodo ON id_periodo=periodo.id " \
+            "LEFT JOIN carrera ON id_carrera=carrera.id"
 
-    query_horario = "SELECT hora, ses, dias, aula, edificio " \
-        "FROM horario WHERE id_instancia_materia=%s"
+    query_horario = "SELECT hora, dias, aula, edificio " \
+        "FROM horario " \
+        "WHERE id_instancia_materia=%s"
 
     cursor.execute(query)
     ofertas = cursor.fetchall()
@@ -39,7 +41,7 @@ def hello():
             "carrera": oferta[5],
             "materia": oferta[6],
             "clave_materia": oferta[7],
-            "creditor": oferta[8],
+            "creditos": oferta[8],
             "profesor": oferta[9],
             "ses_profesor": oferta[10],
             "periodo": str(oferta[11]) + " - " + str(oferta[12]),

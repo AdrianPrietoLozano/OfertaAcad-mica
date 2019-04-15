@@ -12,6 +12,9 @@ cursor = conexion.cursor()
 
 id_periodo = 1
 
+dic_materias = {"IGFO": 1, "INBI": 2, "INCE": 3, "INCO": 4, 
+	"INNI": 5, "INRO": 6, }
+
 def insertar_materia(oferta_materia):
     insert = "INSERT INTO materia(nombre, clave, creditos) "\
             "VALUES(%s, %s, %s)"
@@ -51,13 +54,13 @@ def insertar_profesor(oferta_materia):
 
 def insertar_instancia_materia(oferta_materia, id_materia, id_profesor, id_periodo):
     insert = "INSERT INTO instancia_materia(nrc, cupos, disponibles, seccion, " \
-			"carrera, id_materia, id_profesor, id_periodo) "\
+			"id_carrera, id_materia, id_profesor, id_periodo) "\
 			"VALUES(%s, %s, %s, %s, %s, %s, %s, %s)"
     cursor.execute(insert, (oferta_materia["nrc"],
 							oferta_materia["cupos"],
 							oferta_materia["disponibles"],
 							oferta_materia["seccion"],
-							oferta_materia["carrera"],
+							dic_materias[oferta_materia["carrera"]],
 							id_materia,
 							id_profesor,
 							id_periodo))
