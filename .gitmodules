@@ -1,0 +1,3 @@
+[submodule "appOfertaAcademica"]
+	path = appOfertaAcademica
+	url = https://github.com/AdrianPrietoLozano/appOfertaAcademica.git
