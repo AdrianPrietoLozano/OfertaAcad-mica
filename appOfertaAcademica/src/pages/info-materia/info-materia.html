@@ -1,0 +1,99 @@
+<!--
+  Generated template for the InfoMateriaPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>Info. de la materia</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-card>
+      <ion-card-header>
+        NRC
+      </ion-card-header>
+      <ion-card-content>
+        {{ oferta.nrc }}
+      </ion-card-content>
+    </ion-card>
+
+    <ion-card>
+      <ion-card-header>
+        Materia
+      </ion-card-header>
+      <ion-card-content>
+        {{oferta.materia}}
+      </ion-card-content>
+    </ion-card>
+  
+    <ion-card>
+      <ion-card-header>
+        Profesor
+      </ion-card-header>
+      <ion-card-content>
+        {{ oferta.profesor }}
+      </ion-card-content>
+    </ion-card>
+
+    <ion-card>
+      <ion-card-header>
+        Horario <br>
+        Hora/Días/Aula/Edificio
+      </ion-card-header>
+      <ion-item>
+        {{ oferta.horarios[0] }}
+      </ion-item>
+      <ion-item>
+        {{ oferta.horarios[1] }}
+      </ion-item>
+    </ion-card>
+    
+    <ion-card>
+      <ion-card-header>
+        Clave de la materia
+      </ion-card-header>
+      <ion-card-content>
+        {{ oferta.clave_materia }}
+      </ion-card-content>
+    </ion-card>
+  
+    <ion-card>
+      <ion-card-header>
+        Sección
+      </ion-card-header>
+      <ion-card-content>
+        {{ oferta.seccion }}
+      </ion-card-content>
+    </ion-card>
+  
+    <ion-card>
+      <ion-card-header>
+        Creditos
+      </ion-card-header>
+      <ion-card-content>
+        {{ oferta.creditos }}
+      </ion-card-content>
+    </ion-card>
+  
+    <ion-card>
+      <ion-card-header>
+        Cupos/Disponible
+      </ion-card-header>
+      <ion-card-content>
+        Cupos:  {{ oferta.cupos }} <br>
+        Disponibles:  {{ oferta.disponibles }}
+      </ion-card-content>
+    </ion-card>
+  
+    <ion-card>
+      <ion-card-header>
+        Periodo
+      </ion-card-header>
+      <ion-card-content>
+        {{ oferta.periodo }}
+      </ion-card-content>
+    </ion-card>
+</ion-content>

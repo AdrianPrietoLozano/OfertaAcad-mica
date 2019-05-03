@@ -1,0 +1,68 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Oferta Académica
+    </ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="search()">
+        <ion-icon name="search"></ion-icon>
+      </button>>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card color="secondary" (click)="info('INNI')">
+    <ion-card-header>
+      INNI
+    </ion-card-header>
+    <ion-card-content>
+      Ingeniería Informática
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="dark" (click)="info('INCO')">
+    <ion-card-header>
+      INCO
+    </ion-card-header>
+    <ion-card-content>
+        Ingeniería en Computación
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="danger" (click)="info('IGFO')">
+    <ion-card-header>
+      IGFO
+    </ion-card-header>
+    <ion-card-content>
+        Ingeniería Fotónica
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="gris" (click)="info('INCE')">
+    <ion-card-header>
+      INCE
+    </ion-card-header>
+    <ion-card-content>
+        Ingeniería en Comunicaciones y Electrónica
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="primary" (click)="info('INBI')">
+    <ion-card-header>
+      INBI
+    </ion-card-header>
+    <ion-card-content>
+        Ingeniería Biomédica
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="warning" (click)="info('INRO')">
+    <ion-card-header>
+      INRO
+    </ion-card-header>
+    <ion-card-content>
+        Ingeniería Robótica
+    </ion-card-content>
+  </ion-card>
+</ion-content>

@@ -1,0 +1,12 @@
+{
+  "name": "appOfertaAcademica",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {},
+  "proxies": [
+    {
+      "path": "/v1",
+      "proxyUrl": "http://localhost:5000"
+    }
+  ]
+}
